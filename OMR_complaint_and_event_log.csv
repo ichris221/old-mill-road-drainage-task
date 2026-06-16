@@ -1,0 +1,11 @@
+event_id,date,reported_duration_min,reported_depth_in,nearest_node,rain_gauge_depth_in,rain_duration_min,road_status,complaint_type,source,notes
+EVT-2025-0211,2025-02-11,42,3.0,CB-3,0.64,35,lane passable,splashing over curb,resident call,Minor nuisance flooding at sag.
+EVT-2025-0407,2025-04-07,58,4.5,CB-3,0.82,40,lane passable,standing water,school district email,Buses slowed at sag.
+EVT-2025-0718,2025-07-18,96,7.0,CB-3,1.25,55,one lane closed,roadway ponding,maintenance crew,Water reached north gutter but not centerline.
+EVT-2025-0929,2025-09-29,74,5.0,MH-3,0.93,48,lane passable,manhole gurgling,crew note,Gurgling reported at MH-3.
+EVT-2025-1114,2025-11-14,130,8.0,CB-3,1.48,62,temporary closure,roadway flooding,public works dispatch,Two vehicles diverted.
+EVT-2026-0106,2026-01-06,52,3.5,CB-1,0.7,30,lane passable,curb splash,resident portal,Upstream ponding only.
+EVT-2026-0302,2026-03-02,116,7.5,CB-3,1.35,60,one lane closed,roadway flooding,public works dispatch,Primary design-event analogue.
+EVT-2026-0409,2026-04-09,155,9.0,CB-3,1.62,65,temporary closure,roadway flooding,county sheriff report,High-water mark used by survey crew; tailwater mark also observed at OUT-1.
+EVT-2026-0427,2026-04-27,69,4.0,OUT-1,0.88,44,lane passable,downstream yard flooding,resident call,Willow Branch debris noted.
+EVT-2026-0508,2026-05-08,88,6.0,CB-3,1.18,50,one lane closed,roadway ponding,maintenance crew,Preliminary workbook underpredicts recurrence.
